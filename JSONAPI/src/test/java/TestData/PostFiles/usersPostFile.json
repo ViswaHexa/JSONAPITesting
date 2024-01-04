@@ -1,0 +1,17 @@
+{
+    "name": "Dharun Kumar",
+    "username": "Dharun",
+    "email": "Dharun.k@april.biz",
+    "address": {
+        "street": "Koyambedu Light",
+        "suite": "Apt. 556",
+        "city": "Chennai",
+        "zipcode": "551211",
+        
+    },
+    "phone": "1-770-7362",
+    "website": "dkumar.p.org",
+    "company": {
+        "name": "Hexa"
+    }
+}
