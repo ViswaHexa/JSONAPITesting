@@ -34,7 +34,7 @@ Feature: Json Api Testing
 		Examples:
 		|endPoints|code|
   	|"comments"	|201 |
-  	
+  	# endPoints = posts,comments,todos,users
   	
   	
   	
